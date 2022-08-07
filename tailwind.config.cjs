@@ -14,6 +14,9 @@ module.exports = {
         "footer": "var(--footer)",
         "text-description": "var(--text-description)"
       },
+      gridTemplateColumns: {
+        "footer": "3fr 8fr 3fr"
+      }
     },
 
   },
