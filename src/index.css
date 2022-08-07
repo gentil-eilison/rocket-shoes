@@ -1,0 +1,24 @@
+:root {
+  --button: #ff0000;
+  --main-background: #c4c4c4;
+  --background: #e5e5e5;
+  --text: #000;
+  --footer: #000;
+  --text-description: #9c9696;
+}
+
+* {
+  box-sizing: border-box;
+  padding: 0;
+  margin: 0;
+
+  font-family: Roboto, sans-serif;
+}
+
+body, html {
+  height: 100%;
+}
+
+#root {
+  height: 100%;
+}
