@@ -1,7 +1,7 @@
-# DESAFIO PROPOSPO PELA ROCKETSEAT
+# Desafio Proposto Pela Rocketseat 👊
 O desafio era criar uma página de vendas de pares de tênis, seguindo o modelo do Figma disponibilizado pela Rocketseat. Não havia restrições sobre qual tecnologia usar.
 
-# TECNOLOGIAS UTILIZADAS
+# Tecnologias Utilizadas 💻
 - Tailwind CSS
 - ReactJS
 - Typescript
@@ -10,7 +10,7 @@ O desafio era criar uma página de vendas de pares de tênis, seguindo o modelo 
 - CSS3
 - Background Remover (Web App.)
 
-# RESULTADO
+# Resultado 🚀
 ![image info]("./../src/assets/rocketshoes-readme.png)
 
 # Obrigado por ver o meu repositório. Até a próxima 👋
