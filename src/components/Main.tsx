@@ -1,3 +1,5 @@
+import Item from "./Item";
+
 const Main = () => {
   return (
     <main className="h-4/5 flex flex-row justify-between">
@@ -10,9 +12,13 @@ const Main = () => {
           </p>
           <p className="text-3xl">R$ 1.000,00</p>
         </span>
-        <button className="bg-button ml-32 w-48 h-12 text-white font-bold">COMPRAR</button>
+        <button className="bg-button ml-32 w-48 h-12 text-white font-bold">
+          COMPRAR
+        </button>
       </article>
-      <article className="basis-3/5 bg-main-background"></article>
+      <article className="basis-3/5 bg-main-background flex flex-col justify-center items-center">
+        <Item />
+      </article>
     </main>
   );
 };
